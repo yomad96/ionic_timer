@@ -1,0 +1,7 @@
+{
+  "name": "chronometerApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
